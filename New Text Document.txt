@@ -2,5 +2,4 @@ Git 1.gun
 Git 1.gun 2.Deneme
 Git 1.gun 3.Deneme
 Git 1.gun 4.Deneme
-Git 1.gun 5.Deneme
-Git 1.gun 6.Deneme
+Mustafa branch yeni ekleme 1
