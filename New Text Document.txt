@@ -1,0 +1,3 @@
+Git 1.gun
+Git 1.gun 2.Deneme
+Git 1.gun 3.Deneme
