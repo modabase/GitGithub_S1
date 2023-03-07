@@ -8,3 +8,4 @@ Git 2.gun Master branch Github sonrasi ekleme 1
 Master Branch Conflict Deneme
 Mustafa Branchi Conflict Deneme
 Bu satir Github'dan Pull denemesi icin yazilmistir
+Bu satir Github'dan Pull 2.denemesi icin yazilmistir
